@@ -7,7 +7,7 @@ Use ROS Bridge to interface with webGUI<br>
 Organize hardware<br>
 
 ##RASPBERRY PI
-Pi 2 B+
+
 PI 0: LAB<br>
 PI 1: LAB<br>
 PI 2: LAB<br>
