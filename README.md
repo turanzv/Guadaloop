@@ -7,4 +7,4 @@ Dependencies are missing on cloned RPIs.
 `sudo apt-get install g++`
 
 Usage in a catkin workspace:
-clone under src in the root workspace directory.
+Directories in this repository are used as a staging ground. Packages will be manually synchronized with those in your catkin workscpace src directory.
