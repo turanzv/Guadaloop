@@ -1,2 +1,0 @@
-
--DCATKIN_DEVEL_PREFIX=/home/parallels/guadaloop_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/guadaloop_ws/install -G Unix Makefiles
