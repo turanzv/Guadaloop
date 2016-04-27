@@ -1,22 +1,10 @@
 # Guadaloop
-ROS Famework for the Guadaloop Hyperloop Pod
+This repository contains source packages for the Guadaloop Central Computer.
 
-## TODO
-Draw out system diagram<br>
-Use ROS Bridge to interface with webGUI<br>
-Organize hardware<br>
+Dependencies are missing on cloned RPIs. 
+`sudo apt-get update`
+`sudo apt-get upgrade`
+`sudo apt-get install g++`
 
-## Overview
-This repository contains a catkin workspace. The workspace serves as the home for all components of the ROS system.
-Packages are contained in guadaloop/src. Each package serves a single purpose for the system.
-Contact Turan Vural before creating a new package.
-
-## RASPBERRY PI
-PI 0: LAB<br>
-PI 1: LAB<br>
-PI 2: LAB<br>
-PI 3: LAB<br>
-PI 4: LAB<br>
-PI 5: LAB<br>
-PI 6: LAB<br>
-PI 7: LAB<br>
+Usage in a catkin workspace:
+clone under src in the root workspace directory.
